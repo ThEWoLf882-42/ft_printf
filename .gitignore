@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+*.o
+*.lib
+*.a
+*.out
+*.swp
+*.dSYM/
